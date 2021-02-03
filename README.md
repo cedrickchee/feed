@@ -143,3 +143,8 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [RFC: Adopt a modern JavaScript framework for use with MediaWiki (wikimedia.org)](https://phabricator.wikimedia.org/T241180)
 - [Stanford CS248: Implement an SVG Rasterizer (github.com/stanford-cs248)](https://github.com/stanford-cs248/draw-svg)
 - [Build stuff (why.degree)](https://why.degree/motivation/)
+- [Data structures and algorithms I actually used while working at tech companies (pragmaticengineer.com)](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
+- [Being OK with not being extraordinary (tiffanymatthe.com)](https://www.tiffanymatthe.com/not-extraordinary)
+- [eBPF Is Awesome (filipnikolovski.com)](https://filipnikolovski.com/posts/ebpf/)
+- [Hotwire: HTML over the Wire (hotwire.dev)](https://hotwire.dev/)
+- [I've been merging microservices back into the monolith (bennadel.com)](https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm)
