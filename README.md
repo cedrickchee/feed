@@ -158,3 +158,4 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [How to Build Good Software (csc.gov.sg)](https://www.csc.gov.sg/articles/how-to-build-good-software)
 - [Introducing nushell (jonathanturner.org)](http://www.jonathanturner.org/2019/08/introducing-nushell.html)
 - [WTF – A personal information dashboard for your terminal (wtfutil.com)](https://wtfutil.com/)
+- [How to do a code review (google.github.io)](https://google.github.io/eng-practices/review/reviewer/)
