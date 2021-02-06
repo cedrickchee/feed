@@ -161,3 +161,4 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [How to do a code review (google.github.io)](https://google.github.io/eng-practices/review/reviewer/)
 - [Building a distributed time-series database on PostgreSQL (timescale.com)](https://blog.timescale.com/blog/building-a-distributed-time-series-database-on-postgresql/)
 - [Redis streams as a pure data structure (antirez.com)](http://antirez.com/news/128)
+- [The boring technology behind a one-person Internet company (listennotes.com)](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
