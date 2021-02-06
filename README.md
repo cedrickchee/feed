@@ -159,3 +159,5 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [Introducing nushell (jonathanturner.org)](http://www.jonathanturner.org/2019/08/introducing-nushell.html)
 - [WTF – A personal information dashboard for your terminal (wtfutil.com)](https://wtfutil.com/)
 - [How to do a code review (google.github.io)](https://google.github.io/eng-practices/review/reviewer/)
+- [Building a distributed time-series database on PostgreSQL (timescale.com)](https://blog.timescale.com/blog/building-a-distributed-time-series-database-on-postgresql/)
+- [Redis streams as a pure data structure (antirez.com)](http://antirez.com/news/128)
