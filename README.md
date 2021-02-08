@@ -164,3 +164,6 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [The boring technology behind a one-person Internet company (listennotes.com)](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
 - [Why Go and Not Rust? (kristoff.it)](https://kristoff.it/blog/why-go-and-not-rust/)
 - [GitHub stars won’t pay your rent (medium.com/kitze)](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed)
+- [How a double-free bug in WhatsApp turns to remote code execution (awakened1712.github.io)](https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/)
+- [Writing Is Thinking: Learning to Write with Confidence (stephsmith.io)](https://blog.stephsmith.io/learning-to-write-with-confidence/)
+- [99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org/bitpusher16)](https://bitbucket.org/BitPusher16/dotfiles/raw/49a01d929dcaebcca68bbb1859b4ac1aea93b073/refs/git/git_examples.sh)
