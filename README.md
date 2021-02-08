@@ -163,3 +163,4 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [Redis streams as a pure data structure (antirez.com)](http://antirez.com/news/128)
 - [The boring technology behind a one-person Internet company (listennotes.com)](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
 - [Why Go and Not Rust? (kristoff.it)](https://kristoff.it/blog/why-go-and-not-rust/)
+- [GitHub stars won’t pay your rent (medium.com/kitze)](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed)
