@@ -167,3 +167,7 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [How a double-free bug in WhatsApp turns to remote code execution (awakened1712.github.io)](https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/)
 - [Writing Is Thinking: Learning to Write with Confidence (stephsmith.io)](https://blog.stephsmith.io/learning-to-write-with-confidence/)
 - [99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org/bitpusher16)](https://bitbucket.org/BitPusher16/dotfiles/raw/49a01d929dcaebcca68bbb1859b4ac1aea93b073/refs/git/git_examples.sh)
+- [MonolithFirst (martinfowler.com)](https://martinfowler.com/bliki/MonolithFirst.html)
+- [An intensive online school for software engineers seeking mastery (bradfieldcs.com)](https://bradfieldcs.com/)
+- [Cutting through to what matters (ozwrites.com)](https://ozwrites.com/knives/)
+- [Learn every language (blog.bradfieldcs.com)](https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee#.i500mt6fg)
