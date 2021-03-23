@@ -186,3 +186,4 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [Why Zig when there is already C++, D, and Rust? (ziglang.org)](https://ziglang.org/learn/why_zig_rust_d_cpp/)
 - [Zig, parser combinators, and why they're awesome (hexops.com)](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
 - [FFMPEG from Zero to Hero (ffmpegfromzerotohero.com)](https://ffmpegfromzerotohero.com/)
+- [A Spectre proof-of-concept for a Spectre-proof web (googleblog.com)](https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html).
