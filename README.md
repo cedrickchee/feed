@@ -190,3 +190,4 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [Performance comparison: counting words in Python, Go, C++, C, Awk, Forth, Rust (benhoyt.com)](https://benhoyt.com/writings/count-words/)
 - [You don’t need all that complex/expensive/distracting infrastructure (usejournal.com)](https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb)
 - [Unironically using Kubernetes for my personal blog (mbuffett.com)](https://mbuffett.com/posts/kubernetes-setup/)
+- [How Complex Systems Fail (complexsystems.fail)](https://how.complexsystems.fail/) paper. [Paper review](https://blog.acolyer.org/2016/02/10/how-complex-systems-fail/)
