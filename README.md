@@ -180,3 +180,8 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [Sandboxing and Workload Isolation (fly.io)](https://fly.io/blog/sandboxing-and-workload-isolation/)
 - [How I cut GTA Online loading times by 70% (nee.lv)](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 - [Always Bet on Text (2014) (graydon2.dreamwidth.org)](https://graydon2.dreamwidth.org/193447.html)
+- [Assorted Thoughts on Zig and Rust (scattered-thoughts.net)](https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/). Key takeaways:
+  - "Zig has much lower cognitive overhead than Rust and I'm more able to directly express things I care about."
+  - "Most of the places where Zig is simpler than Rust do not relate to the lifetime system, and I'm not yet convinced by arguments that all of Rust's other features are necessary to support the lifetime system." (that translates to learning curve of Rust and complexity).
+- [Why Zig when there is already C++, D, and Rust? (ziglang.org)](https://ziglang.org/learn/why_zig_rust_d_cpp/)
+- [Zig, parser combinators, and why they're awesome (hexops.com)](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
