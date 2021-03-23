@@ -185,3 +185,4 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
   - "Most of the places where Zig is simpler than Rust do not relate to the lifetime system, and I'm not yet convinced by arguments that all of Rust's other features are necessary to support the lifetime system." (that translates to learning curve of Rust and complexity).
 - [Why Zig when there is already C++, D, and Rust? (ziglang.org)](https://ziglang.org/learn/why_zig_rust_d_cpp/)
 - [Zig, parser combinators, and why they're awesome (hexops.com)](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
+- [FFMPEG from Zero to Hero (ffmpegfromzerotohero.com)](https://ffmpegfromzerotohero.com/)
