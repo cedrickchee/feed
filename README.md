@@ -188,3 +188,5 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [FFMPEG from Zero to Hero (ffmpegfromzerotohero.com)](https://ffmpegfromzerotohero.com/)
 - [A Spectre proof-of-concept for a Spectre-proof web (googleblog.com)](https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html)
 - [Performance comparison: counting words in Python, Go, C++, C, Awk, Forth, Rust (benhoyt.com)](https://benhoyt.com/writings/count-words/)
+- [You don’t need all that complex/expensive/distracting infrastructure (usejournal.com)](https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb)
+- [Unironically using Kubernetes for my personal blog (mbuffett.com)](https://mbuffett.com/posts/kubernetes-setup/)
