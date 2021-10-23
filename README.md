@@ -195,3 +195,4 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [Reflections on 10k Hours of Programming (matt-rickard.com)](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
 - [Challenging projects every programmer should try (web.eecs.utk.edu)](https://web.eecs.utk.edu/~azh/blog/challengingprojects.html) by AZHenley.
 - [Build your own X (github.com/danistefanovic)](https://github.com/danistefanovic/build-your-own-x)
+- [The unreasonable effectiveness of just showing up everyday (typesense.org)](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)
