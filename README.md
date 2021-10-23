@@ -192,3 +192,4 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [Unironically using Kubernetes for my personal blog (mbuffett.com)](https://mbuffett.com/posts/kubernetes-setup/)
 - [How Complex Systems Fail (complexsystems.fail)](https://how.complexsystems.fail/) paper. [Paper review](https://blog.acolyer.org/2016/02/10/how-complex-systems-fail/)
 - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+- [Reflections on 10k Hours of Programming (matt-rickard.com)](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
