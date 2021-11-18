@@ -198,3 +198,4 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [The unreasonable effectiveness of just showing up everyday (typesense.org)](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)
 - [On designing and deploying internet-scale services (blog.acolyer.org)](https://blog.acolyer.org/2016/09/12/on-designing-and-deploying-internet-scale-services/) - A services checklist based off of it: https://gist.github.com/acolyer/95ef23802803cb8b4eb5
 - [On "Trojan Source" Attacks (research.swtch.com)](https://research.swtch.com/trojan) - For more info, refer to [Trojan Source: invisible source code vulnerabilities](https://www.trojansource.codes/). GitHub now displayed a warning when a file's contents include bidirectional Unicode text. https://github.co/hiddenchars
+- [WebAssembly from Scratch: From FizzBuzz to DooM (github.com/diekmann)](https://github.com/diekmann/wasm-fizzbuzz)
