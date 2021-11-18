@@ -201,3 +201,4 @@ A feed of things I'm reading and will read. It's sort of like bookmarks or favor
 - [WebAssembly from Scratch: From FizzBuzz to DooM (github.com/diekmann)](https://github.com/diekmann/wasm-fizzbuzz)
 - [Consume less, create more (blog.tjcx.me)](https://blog.tjcx.me/p/consume-less-create-more) - Modern technology makes us consumers instead of creators.
 - [Things you're allowed to do (milan.cvitkovic.net)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
+- [What I learned from Erlang about Resiliency in Systems Design (mgasch.com)](https://www.mgasch.com/2019/03/crash/)
